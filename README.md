@@ -10,11 +10,10 @@
 
 # Screenshots
 
-Entry Page:
+### Entry Page:
 <img src="https://github.com/krishanweb2206/CART/blob/main/screenshots/1.JPG">
 
-Increment or decrement the product from Cart
-
+### Increment or decrement the product from Cart
 <img src="https://github.com/krishanweb2206/CART/blob/main/screenshots/2.JPG">
 
 ## Available Scripts
