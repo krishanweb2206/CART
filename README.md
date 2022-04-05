@@ -4,12 +4,18 @@
 
 ## Tools Used
 <img src="https://miro.medium.com/max/1024/1*oT_l6QxMdTN65-0gwFqeNg.png" width=300px><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200px>
-1. Firebase cloud storage (to store songs).
+1. Firebase cloud storage (to store product).
 2. React JS
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Screenshots
+
+Entry Page:
+https://github.com/krishanweb2206/CART/blob/main/screenshots/1.JPG
+
+Increment or decrement the product from Cart
+
+https://github.com/krishanweb2206/CART/blob/main/screenshots/2.JPG
 
 ## Available Scripts
 
